@@ -14,8 +14,6 @@ Bu proje, enerji kullanımını optimize etmeye yarayan ve tasarruf sağlama ama
 
 ---
 
-<img src="image/yalinHali.png" alt="Sade görünüm" style="width:45%;">
-
 
 ## 🚀 Başlarken
 
