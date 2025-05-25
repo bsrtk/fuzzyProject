@@ -85,7 +85,7 @@ class TasarrufApp(QWidget):
 
             QMessageBox.information(
                 self, "Sonuçlar",
-                f"🔋 Önerilen Enerji Tasarrufu Seviyesi: {tasarruf:.2f}\n"
+                f"🔋 Önerilen Enedrji Tasarrufu Seviyesi: {tasarruf:.2f}\n"
                 f"⏱️ Önerilen Kullanım Süresi: {kullanim:.2f}"
             )
         except ValueError:
